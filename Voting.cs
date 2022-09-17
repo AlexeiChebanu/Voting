@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ListCollection
+﻿namespace ListCollection
 {
-    class Topic
+    class Theme
     {
         public string? topic(string message)
         {

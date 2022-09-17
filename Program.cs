@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Topic topic = new Topic();
-        Console.WriteLine(topic.topic("Today`s voting topic is" + " "));
+        Theme topic = new Theme();
+        Console.WriteLine(topic.topic("Electing of "));
 
         Voting voting = new Voting();
         voting.dec();
